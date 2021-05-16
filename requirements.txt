@@ -1,2 +1,5 @@
 fastapi
 sqlalchemy
+pytest
+async-exit-stack
+async-generator
