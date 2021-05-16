@@ -1,6 +1,6 @@
 # FastApi-Audio-Rest-api
-https://hrzqz0.deta.dev/ <- deployed here
-https://hrzqz0.deta.dev/docs <- to get rest services
+https://hrzqz0.deta.dev/ <- deployed here <br>
+https://hrzqz0.deta.dev/docs <- to get rest services<br>
 Fastapi rest services for uploading Audiobook, podcast and songs
 
 ## Description
