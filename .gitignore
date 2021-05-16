@@ -1,1 +1,4 @@
 fastapi-test
+queries.txt
+.vscode
+__pycache__
