@@ -6,6 +6,7 @@ Fastapi rest services for uploading Audiobook, podcast and songs
 ## Description
 - Created SQL crud operations for Audiobook, podcast and songs
 - Implemented rest services for Audiobook, podcast and songs
+- Technologies Used: Sqlite for Database, FASTAPI for Rest Services
 
 ## To run the app
 pip install -r requirements.txt<br>
